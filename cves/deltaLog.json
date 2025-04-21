@@ -1,5 +1,19 @@
 [
   {
+    "fetchTime": "2025-04-21T22:38:33.741Z",
+    "numberOfChanges": 1,
+    "new": [
+      {
+        "cveId": "CVE-2025-3846",
+        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-3846",
+        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/3xxx/CVE-2025-3846.json",
+        "dateUpdated": "2025-04-21T22:31:05.189Z"
+      }
+    ],
+    "updated": [],
+    "error": []
+  },
+  {
     "fetchTime": "2025-04-21T22:08:26.508Z",
     "numberOfChanges": 2,
     "new": [
