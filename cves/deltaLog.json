@@ -1,5 +1,19 @@
 [
   {
+    "fetchTime": "2025-04-23T10:09:07.364Z",
+    "numberOfChanges": 1,
+    "new": [
+      {
+        "cveId": "CVE-2024-10306",
+        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2024-10306",
+        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2024/10xxx/CVE-2024-10306.json",
+        "dateUpdated": "2025-04-23T09:59:49.150Z"
+      }
+    ],
+    "updated": [],
+    "error": []
+  },
+  {
     "fetchTime": "2025-04-23T09:33:36.561Z",
     "numberOfChanges": 1,
     "new": [
