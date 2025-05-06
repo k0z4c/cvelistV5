@@ -1,5 +1,19 @@
 [
   {
+    "fetchTime": "2025-05-06T10:38:56.907Z",
+    "numberOfChanges": 1,
+    "new": [
+      {
+        "cveId": "CVE-2025-4347",
+        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-4347",
+        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/4xxx/CVE-2025-4347.json",
+        "dateUpdated": "2025-05-06T10:31:04.720Z"
+      }
+    ],
+    "updated": [],
+    "error": []
+  },
+  {
     "fetchTime": "2025-05-06T10:05:57.258Z",
     "numberOfChanges": 3,
     "new": [
