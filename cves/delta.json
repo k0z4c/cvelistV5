@@ -1,14 +1,14 @@
 {
-  "fetchTime": "2025-05-08T03:37:30.693Z",
+  "fetchTime": "2025-05-08T04:12:24.859Z",
   "numberOfChanges": 1,
-  "new": [
+  "new": [],
+  "updated": [
     {
       "cveId": "CVE-2025-32873",
       "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-32873",
       "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/32xxx/CVE-2025-32873.json",
-      "dateUpdated": "2025-05-08T03:36:23.085Z"
+      "dateUpdated": "2025-05-08T04:05:04.028Z"
     }
   ],
-  "updated": [],
   "error": []
 }
