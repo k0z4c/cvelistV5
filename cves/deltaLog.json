@@ -1,5 +1,19 @@
 [
   {
+    "fetchTime": "2025-05-08T06:50:30.508Z",
+    "numberOfChanges": 1,
+    "new": [
+      {
+        "cveId": "CVE-2025-4127",
+        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-4127",
+        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/4xxx/CVE-2025-4127.json",
+        "dateUpdated": "2025-05-08T06:39:50.774Z"
+      }
+    ],
+    "updated": [],
+    "error": []
+  },
+  {
     "fetchTime": "2025-05-08T06:39:39.775Z",
     "numberOfChanges": 35,
     "new": [
