@@ -1,14 +1,14 @@
 {
-  "fetchTime": "2025-05-15T08:03:01.610Z",
+  "fetchTime": "2025-05-15T08:56:43.748Z",
   "numberOfChanges": 1,
-  "new": [
+  "new": [],
+  "updated": [
     {
       "cveId": "CVE-2025-4737",
       "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-4737",
       "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/4xxx/CVE-2025-4737.json",
-      "dateUpdated": "2025-05-15T07:58:15.251Z"
+      "dateUpdated": "2025-05-15T08:53:43.206Z"
     }
   ],
-  "updated": [],
   "error": []
 }
