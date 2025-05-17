@@ -1,5 +1,19 @@
 [
   {
+    "fetchTime": "2025-05-17T17:05:51.112Z",
+    "numberOfChanges": 1,
+    "new": [
+      {
+        "cveId": "CVE-2025-4832",
+        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-4832",
+        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/4xxx/CVE-2025-4832.json",
+        "dateUpdated": "2025-05-17T17:00:10.627Z"
+      }
+    ],
+    "updated": [],
+    "error": []
+  },
+  {
     "fetchTime": "2025-05-17T16:33:21.218Z",
     "numberOfChanges": 1,
     "new": [
@@ -169897,47 +169911,6 @@
         "dateUpdated": "2025-04-17T17:10:06.019Z"
       }
     ],
-    "error": []
-  },
-  {
-    "fetchTime": "2025-04-17T17:03:05.353Z",
-    "numberOfChanges": 3,
-    "new": [
-      {
-        "cveId": "CVE-2025-29661",
-        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-29661",
-        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/29xxx/CVE-2025-29661.json",
-        "dateUpdated": "2025-04-17T16:57:56.184Z"
-      },
-      {
-        "cveId": "CVE-2025-29662",
-        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-29662",
-        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/29xxx/CVE-2025-29662.json",
-        "dateUpdated": "2025-04-17T17:01:07.943Z"
-      }
-    ],
-    "updated": [
-      {
-        "cveId": "CVE-2025-43012",
-        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-43012",
-        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/43xxx/CVE-2025-43012.json",
-        "dateUpdated": "2025-04-17T16:59:29.046Z"
-      }
-    ],
-    "error": []
-  },
-  {
-    "fetchTime": "2025-04-17T16:56:43.089Z",
-    "numberOfChanges": 1,
-    "new": [
-      {
-        "cveId": "CVE-2025-29039",
-        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-29039",
-        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/29xxx/CVE-2025-29039.json",
-        "dateUpdated": "2025-04-17T16:52:57.332Z"
-      }
-    ],
-    "updated": [],
     "error": []
   }
 ]
