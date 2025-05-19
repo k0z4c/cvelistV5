@@ -1,5 +1,19 @@
 [
   {
+    "fetchTime": "2025-05-19T08:41:47.191Z",
+    "numberOfChanges": 1,
+    "new": [
+      {
+        "cveId": "CVE-2025-4924",
+        "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-4924",
+        "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/4xxx/CVE-2025-4924.json",
+        "dateUpdated": "2025-05-19T08:31:05.514Z"
+      }
+    ],
+    "updated": [],
+    "error": []
+  },
+  {
     "fetchTime": "2025-05-19T08:15:18.748Z",
     "numberOfChanges": 4,
     "new": [
