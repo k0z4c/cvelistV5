@@ -1,8 +1,20 @@
->**Note 2025-04-02 CVE Services Maintenance April 2 beginning at approximately 1:00 PM (until approximately 5:00 PM EDT):**  The CVE Program will be performing maintenance on CVE Services on April 2 between 1 and 5 PM EDT. This maintenance action will have no impact on existing CVE Records in the CVE List. Although the CVE Repository will be available during this time, it will not be updated with any newly published records until the maintenance is complete.  
+>**Note 2026-2-17 Adding Additional day of processing for date normalization to addreess potential inconsistencies**
+> New Date Normalization schedule: (2/16/26 - 2/28/26)
 >
+>**Note 2026-2-10 Record Date Normalization `deltaLog.json` file change**
+>The deltaLog.json file normally retains a rolling 30 days worth of CVE record modification history. However, for the duration of the **Date Normalization process (2/16/26 - 2/28/26)**, the deltaLog.json file will temporarily only retain 15 days worth of history. As a significant number of records will be modified, this will limit the deltaLog.json file size. During this process, the file size will be monitored to see if the number of days stored needs to be further reduced to stay under the size limit. Please note, the full history of the deltaLog file is viewable in the Git history. Once the Date Normalization process is complete, the log file will be set to once again store 30 days worth of history.
 
->**Note 2024-02-13 CVE Repository Maintenance February 13 beginning at approximately 9:30AM EST:**  The CVE Program will be performing maintenance on the CVE List repository to correct inaccuracies in the DATE fields of approximately 3,500 CVE Records (i.e., in the date published, date reserved, date updated, and date modified fields). Only DATE fields will be updated during this maintenance. The repository will remain operational during this time.
->
+
+>**Note 2025-10-29 CVE Record Format Version 5.2.0 update as of Wednesday 10/29 at 10:30 AM EST; Supporting Package URL (PURL) identifiers:**    This update to the CVE Record Format (to version 5.2.0) introduces "non breaking" changes to include:
+> - Adding support for PURL identifiers using the packageURL propertiy with the affected array items
+> - Adding additionaProperites equal to false for the affected array items.
+> - Updating example records CVE Records (including a PURL example)
+> - Adding Documentation and infrastructure improvemente preparing to better support future CVE Record Format updates.
+>   
+> For more details see:
+>   - The [CVE Program general announcement](https://www.cve.org/Media/News/item/blog/2025/10/29/CVE-Record-Format-CVE-Services-Updated)
+>   - The [CVE Record Format 5.2.0 Release notes](https://github.com/CVEProject/cve-schema/releases/tag/v5.2.0)
+>   - The [CVE Services 2.6.0 Release Notes](https://github.com/CVEProject/cve-services/releases/tag/v2.6.0)
 
 >**Note 2024-12-4 CVE REST Services was updated to use the CVE Record Format Schema 5.1.1 on Wednesday 12/4 at 4.00PM EST:** This update introduces “non breaking” changes containing new features that some CNAs may be interested in using in the future  (see  [CVE Record Format version 5.1.1 Release notes](https://github.com/CVEProject/cve-schema/releases/tag/v5.1.1-rc2).  As a fully backwards compatible update (meaning that all previously published CVE Records will validate using this schema), most users will see no operational impact as a result of this change. This schema defines the data format for CVE Records, regardless of whether they were published before or after December 4.  
 
